@@ -36,7 +36,7 @@ Currently working as a Frontend Developer and pursuing a degree in Information S
 <strong>State & Data:</strong> Redux Toolkit, RTK Query<br>
 <strong>Backend (working knowledge):</strong> Node.js, Express, NestJS, PostgreSQL<br>
 <strong>Testing:</strong> Jest, Cypress<br>
-<strong>Tooling:</strong> Git, Vite, npm, ESLint, Prettier
+<strong>Tooling:</strong> Docker, Git, Vite, npm, ESLint, Prettier
 </p>
 
 ---
