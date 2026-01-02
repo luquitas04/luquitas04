@@ -52,7 +52,7 @@ Pinned repositories showcase real-world applications, focusing on architecture, 
 <h2 align="left">Let’s connect</h2>
 
 <p align="left">
-• LinkedIn: (add link)<br>
+• LinkedIn: <a>www.linkedin.com/in/lucas-benjamin-lopez-ab911b244</a><br>
 • Portfolio / Demo projects: (add link)<br>
 • Open to remote opportunities
 </p>
